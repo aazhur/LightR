@@ -25,3 +25,5 @@ Current repository contains:
 (4) CellGeo software
 
 (5) EdgeProps software
+
+https://elifesciences.org/articles/60647
